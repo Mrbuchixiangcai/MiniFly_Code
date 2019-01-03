@@ -1,2 +1,4 @@
 # MiniFly_Code
-鏍规嵁姝ｇ偣鍘熷瓙椋炴帶缂栧啓
+根据正点原子飞控编写
+
+在FreeRTOS里面的README
